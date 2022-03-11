@@ -1,0 +1,40 @@
+html, body{
+padding:0px;
+margin:0px;
+width:100%;
+height:100%;
+font-family:Arial;
+font-size:12px;
+}
+
+ul.linkler {
+    list-style: none;
+    padding: 0;
+}
+
+ul.linkler li {
+    margin-bottom: 10px;
+}
+
+ul.linkler li a {
+    padding: 5px 10px;
+    background: orange;
+    color: white;
+    font-weight: bold;
+    width: 100%;
+    display: block;
+    text-decoration: none;
+}
+
+td.govde{
+	border: 1px solid #909090;
+	
+	padding: 25px;
+}
+a.sil{
+	background: #c10000;
+    color: white;
+    padding: 5px 10px;
+    text-decoration: none;
+    font-weight: bold;
+}
